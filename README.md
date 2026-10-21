@@ -32,8 +32,8 @@ Financial analyst who brings frontline lending judgement to quantitative modelli
 ## Experience
 
 - **Graduate Research Assistant**, Texas State University (2024 – 2026): research reporting across 490+ accounts; co-led analysis for a forthcoming McGraw-Hill economics publication; taught economics to 200+ undergraduates.
-- **Credit Officer**, Lower Pra Rural Bank PLC, Ghana (2023 – 2024): appraised 15+ loan applications a week on repayment capacity, collateral and risk; monitored the loan book for early warning signs.
-- **Data Officer**, Social Security and National Insurance Trust (SSNIT), Ghana (2020 – 2022): reconciled 500+ pension contributions a month; SAS-based data review.
+- **Credit Officer**, Lower Pra Rural Bank PLC, Ghana (2024): appraised 15+ loan applications a week on repayment capacity, collateral and risk; monitored the loan book for early warning signs.
+- **Data and Registration Officer**, Social Security and National Insurance Trust (SSNIT), Ghana (2022 – 2023): reconciled 500+ pension contributions a month; SAS-based data review.
 
 ## Toolkit
 
