@@ -31,7 +31,8 @@ Financial analyst who brings frontline lending judgement to quantitative modelli
 | **[Industry ranking](https://github.com/Speedkelvyn/Industry-ranking-study)** | Thirteen models rank 49 US industries monthly, 1980–2026. The skill is small, mostly 12-month momentum, and halves after 1999; after costs the long-short Sharpe ratio is 0.2 to 0.4. | [Read the study](https://speedkelvyn.github.io/Industry-ranking-study/) |
 | **[Exchange rate forecasting](https://github.com/Speedkelvyn/Exchange-Rate)** | Can machine learning beat the random walk? GARCH, Elastic Net and a neural network tested out of sample on six currencies; significant gains only in high-risk months. | [Read the study](https://speedkelvyn.github.io/Exchange-Rate/) |
 | **[Regression tool](https://github.com/Speedkelvyn/Browser-regression-tool)** | OLS, logit and probit on any CSV file in the browser, with robust standard errors and diagnostics, checked against statsmodels. | [Open the tool](https://speedkelvyn.github.io/Browser-regression-tool/) |
-| **Financial contagion research** | Systemic-risk transmission from bank failures to neighbouring institutions across a multi-institution dataset. | — |
+
+*Valuations use data from the dates shown (Sandisk before its 8-for-1 split on 20 November 2026). Educational research, not investment advice.*
 
 ## Experience
 
